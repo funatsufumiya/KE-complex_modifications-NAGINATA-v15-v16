@@ -7,7 +7,8 @@
 * docs/json/Naaginata_v16
 * docs/json/Naginata_v16_for_typing_game (ローマ字タイピングゲーム用)
 
-※ 左濁+ー+う = ヴ は未実装。
+※1 左濁+ー+う = ヴ は未実装。<br>
+※2 v15の改良版の更新は現時点で未反映。
 
 ### 薙刀式配列v15（fix版）
 
@@ -16,7 +17,7 @@
 * docs/json/Naginata_v15
 * docs/json/Naginata_v15_for_typing_game (ローマ字タイピングゲーム用)
 
-メモ: [改良版](https://kazuki-mizuc.com/naginata-v15fix-r604-for-karabiner/)があり、こちらのほうがより実用性が高い。現在作者の許可を得て、マージ作業中。
+メモ: GitHub外に[改良版](https://kazuki-mizuc.com/naginata-v15fix-r604-for-karabiner/)があり、こちらのほうがより実用性が高い。現在作者の許可を得て、マージ作業中。
 
 ### 薙刀式配列v14（集大成版） 2021年12月10日付
 
