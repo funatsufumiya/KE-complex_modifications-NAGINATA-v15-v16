@@ -3242,19 +3242,6 @@
                 {"key_code":"d"},{"key_code":"u","repeat":false}
             ]
         },
-        {"description":"(シンクロ) 左濁, う → ヴ","type":"basic",
-            "conditions":[{"type":"variable_unless","name":"shifted","value":1},
-                {"input_sources":[{"language":"ja"}],"type":"input_source_if"},
-                {"input_sources":[{"input_mode_id":"Roman$"}],"type":"input_source_unless"}],
-            "from":{"simultaneous":[
-                {"key_code":"f"},
-                {"key_code":"l"}
-                ],"simultaneous_options":{"to_after_key_up":[{"set_variable":{"name":"DR","value":0}}]}
-            },
-            "to":[{"set_variable":{"name":"DR","value":1}},
-                {"key_code":"v"},{"key_code":"u","repeat":false}
-            ]
-        },
         {"description":"(シンクロ) 左濁, へ → べ","type":"basic",
             "conditions":[{"type":"variable_unless","name":"shifted","value":1},
                 {"input_sources":[{"language":"ja"}],"type":"input_source_if"},
@@ -4531,15 +4518,6 @@
                 {"input_sources":[{"input_mode_id":"Roman$"}],"type":"input_source_unless"}],
             "from":{"key_code":"l"},
             "to":[{"key_code":"d"},{"key_code":"u","repeat":false}
-            ]
-        },
-        {"description":"[左濁] う → ヴ","type":"basic",
-            "conditions":[{"type":"variable_if","name":"DR","value":1},
-                {"type":"variable_unless","name":"shifted","value":1},
-                {"input_sources":[{"language":"ja"}],"type":"input_source_if"},
-                {"input_sources":[{"input_mode_id":"Roman$"}],"type":"input_source_unless"}],
-            "from":{"key_code":"l"},
-            "to":[{"key_code":"v"},{"key_code":"u","repeat":false}
             ]
         },
         {"description":"[左濁] へ → べ","type":"basic",

@@ -7,6 +7,8 @@
 * docs/json/Naaginata_v16
 * docs/json/Naginata_v16_for_typing_game (ローマ字タイピングゲーム用)
 
+※ 左濁+ー+う = ヴ は未実装。
+
 ### 薙刀式配列v15（fix版）
 
 [【薙刀式】v15fix版](http://oookaworks.seesaa.net/article/500180437.html#comment&gsc.tab=0)
