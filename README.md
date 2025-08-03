@@ -5,6 +5,7 @@
 [【薙刀式】v16快速版](http://oookaworks.seesaa.net/article/509198141.html#gsc.tab=0)
 
 * docs/json/Naaginata_v16
+* docs/json/Naginata_v16_for_typing_game (ローマ字タイピングゲーム用)
 
 ### 薙刀式配列v15（fix版）
 
