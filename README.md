@@ -17,7 +17,7 @@
 * docs/json/Naginata_v15
 * docs/json/Naginata_v15_for_typing_game (ローマ字タイピングゲーム用)
 
-メモ: GitHub外に[改良版](https://kazuki-mizuc.com/naginata-v15fix-r604-for-karabiner/)があり、こちらのほうがより実用性が高い。現在作者の許可を得て、マージ作業中。
+メモ: GitHub外に[改良版](https://kazuki-mizuc.com/naginata-v15fix-r604-for-karabiner/)があり、こちらのほうがより実用性が高い。現在作者の許可を得て、マージを予定中。
 
 ### 薙刀式配列v14（集大成版） 2021年12月10日付
 
