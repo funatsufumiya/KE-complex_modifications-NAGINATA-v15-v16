@@ -1,5 +1,11 @@
 # Mac で薙刀式を使うスクリプト
 
+### 薙刀式配列v16（快速版）
+
+[【薙刀式】v16快速版](http://oookaworks.seesaa.net/article/509198141.html#gsc.tab=0)
+
+* docs/json/Naaginata_v16
+
 ### 薙刀式配列v15（fix版）
 
 [【薙刀式】v15fix版](http://oookaworks.seesaa.net/article/500180437.html#comment&gsc.tab=0)
