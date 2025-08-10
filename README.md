@@ -7,7 +7,7 @@
 * docs/json/Naaginata_v16
 * docs/json/Naginata_v16_for_typing_game (ローマ字タイピングゲーム用)
 
-※1 左濁+ー+う = ヴ は未実装。<br>
+※1 左濁+ー+う = ヴ は現時点で未実装。<br>
 ※2 v15の改良版の更新は現時点で未反映。
 
 ### 薙刀式配列v15（fix版）
